@@ -1,3 +1,12 @@
+.nav {
+  background-color: #7c83d0 !important;
+  }
+
+h1,h2,p {
+  color:rgb(202, 237, 246);
+}
+
+
 .body-index {
   background-image: url('./img/rave-cube-abstract-geometry-square-gradient-1211703.jpg');
   background-size: cover;
@@ -34,6 +43,13 @@
   border-radius: 40%;
 }
 
+.acercade-i {
+  font-size: 16px;
+  margin-right: 5px;
+  color: #18d26e;
+  line-height: 0;
+}
+
 .body-mis-proyectos {
   background-image: url("./img/600718-rave-Linux-cube-square-geometry-gradient-748x421.jpg");
   background-size: cover;
@@ -49,5 +65,7 @@
   background-color: rgb(13, 136, 42);
 }
 .footer {
+  background-color: transparent !important;
+  color:rgb(202, 237, 246);
 
 }
